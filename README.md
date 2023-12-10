@@ -8,9 +8,6 @@ Upload a file of your choice and your AI bot will parse the documents and answer
 
 <img src="https://github.com/shin101/AI-LLM-GPT-project/blob/main/public/images/docGPT.gif?raw=true" alt="documentGPT demo gif" />
 
-## PrivateGPT
-DocumentGPT but upgraded! This AI bot can handle private data without worrying about security. 
-
 
 ## QuizGPT
 Give your AI bot a document or a webpage, and it will create a quiz to maximize your learning.
