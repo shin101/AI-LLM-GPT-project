@@ -13,6 +13,7 @@ Upload a file of your choice and your AI bot will parse the documents and answer
 Give your AI bot a document or a webpage, and it will create a quiz to maximize your learning.
 
 ## SiteGPT
+AI chatbot that will scrape a website and ask questions about the website and site sources. 
 
 ## MeetingGPT
 
